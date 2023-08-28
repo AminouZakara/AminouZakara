@@ -6,7 +6,7 @@
 
 - 👀👀 This year, I boosted myself more by taking an online course to learn React.js and become a Front End Web Developer.
 
-- 🌱 I’m currently using React.js, Node.js, MongoDB, and GraphQL to design and develop websites and applications. 
+- 🌱 I’m currently using React.js to design and develop websites and applications. 
 
 - 💞️ I’m looking to effectively collaborate on a development project with developers.
 
