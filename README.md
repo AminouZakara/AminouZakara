@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @AminouZakara. I'm a Junior Full-Stack Web Developer who graduated from Computer and Instructional Technologies department.
- 
- - 👀👀 I design and develop websites and applications using: JavaScript, Node.js, Express, MongoDB, React.js, Next.js, Tailwindcss, HTML and CSS. 
+- Hi, I’m Aminou Zakara 👋
+  
+- 👀👀  I'm a Full-Stack Developer with 5+ years of experience in building high-performance websites and applications using JavaScript, React, React Native, Node.js, Express, MongoDB, Next.js, Tailwindcss, HTML, and CSS. 
 
-- 💞️ I’m looking to effectively collaborate on a development project with developers.
+- 💞️ Passionate about solving complex problems and delivering user-centric solutions, looking for remote opportunities to contribute to impactful projects.
 
-- 📫 You can on email(aminouzakara@gmail.com) or whatsapp(+905396686122)
+- 📫 Reach me at aminouzakara@gmail.com
 
-- 🌱 At the same time, I'm an English teacher.
